@@ -6,7 +6,7 @@ Instructions
 1. Print the first 10 numbers. (1, 2, 3, ...)
 2. Find the sum of the first 100 numbers. (Solved)
 3. Find the product of the first 100 numbers.
-4. Find the sum of the first 100 even numbers.
+4. Find the sum of all even numbers less than or equal to 100.
 5. Print a square with the character * that is 10 x 10 characters big. (Solved)
 6. Print a rectangle with the character . that is 10 x 25 characters big.
 7. Find the sum of the numbers between 678 and 952, excluding 952.
