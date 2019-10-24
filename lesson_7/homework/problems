@@ -1,13 +1,18 @@
+Instructions
+- These problems are very challenging, so you may skip 4 problems of your choice
+- Answers to #2, #5, and #11 have been put in the folder. Obviously do not do these problems.
+- Save your solution and show me next time
+
 1. Print the first 10 numbers. (1, 2, 3, ...)
-2. Find the sum of the first 100 numbers.
+2. Find the sum of the first 100 numbers. (Solved)
 3. Find the product of the first 100 numbers.
 4. Find the sum of the first 100 even numbers.
-5. Print a square with the character * that is 10 x 10 characters big.
+5. Print a square with the character * that is 10 x 10 characters big. (Solved)
 6. Print a rectangle with the character . that is 10 x 25 characters big.
 7. Find the sum of the numbers between 678 and 952, excluding 952.
 8. Find the product of the numbers between 1057 and 1100.
 9. Print "abcdefghijklfhidhioasdhoifnovoiasdfigpqefbiuasdbuabiwgphodfnoasmvaushpduhafohoiqhofh" backwards.
 10. Print all numbers between 1 and 100 including 100 except for 3, 52, and 90.
-11. Print all multiples of 6 between 1 and 1000.
+11. Print all multiples of 6 between 1 and 1000. (Solved)
 12. Print all multiples of 37 between 1 and 1000.
 13. Find the number of times "a" occurs in the string "askdlbfawuiebfapduanfsoiubnoansoimoiasnxiopanoiunzopznziobhasopzzpoiuh"
