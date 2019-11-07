@@ -1,6 +1,5 @@
 # Write a function called product that gets the product of the first n numbers.
 
-
 # This is the testing area. Do not change the code. 
 assert product(10) == 3628800, "Test case 1 wrong."
 assert product(20) == 2432902008176640000, "Test case 2 wrong."

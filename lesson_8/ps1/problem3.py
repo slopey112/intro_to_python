@@ -1,8 +1,17 @@
-from math import sqrt, ceil
+def pyramid(n):
+    for i in range(0, n + 9, 2):
+        for j in range(round(i / 2)):
+            print("", end=" ")
+        for j in range(n - round(i / 2)):
+            print(".", end=" ")
+        for j in range(round(i / 2)):
+            print("", end=" ")
+        print()
 
-for i in range(3, 101):
-print(i, end=": ")
-for j in range(2, ceil(sqrt(i)) + 1):
-if i % j == 0:
-print((j, round(i / j)), end=" ")
-print()
+
+def main():
+    pyramid(10)
+
+
+if __name__ == "__main__":
+    main()
