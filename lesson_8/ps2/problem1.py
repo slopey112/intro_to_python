@@ -1,8 +1,8 @@
-# Write a function called product that gets the product of the first n numbers.
+# Write a function which returns true if the parameter is even, and false if the parameter is odd.
 
-# This is the testing area. Do not change the code. 
-assert product(10) == 3628800, "Test case 1 wrong."
-assert product(20) == 2432902008176640000, "Test case 2 wrong."
-assert product(50) == 30414093201713378043612608166064768844377641568960512000000000000, "Test case 3 wrong."
-assert product(60) == 8320987112741390144276341183223364380754172606361245952449277696409600000000000000, "Test case 4 wrong."
-print("All correct!")
+# Testing area.
+assert test(5) == False, "Test case 1 failed."
+assert test(7) == False, "Test case 2 failed."
+assert test(10) == True, "Test case 3 failed."
+assert test(8167) == False, "Test case 4 failed."
+assert test(5316874) == True, "Test case 5 failed."

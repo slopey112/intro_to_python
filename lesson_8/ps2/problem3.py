@@ -1,8 +1,11 @@
-# Write a function which returns true if the parameter is even, and false if the parameter is odd.
+# Write a function called add that adds its parameters.
 
 # Testing area.
-assert test(5) == False, "Test case 1 failed."
-assert test(7) == False, "Test case 2 failed."
-assert test(10) == True, "Test case 3 failed."
-assert test(8167) == False, "Test case 4 failed."
-assert test(5316874) == True, "Test case 5 failed."
+from random import randint
+for i in range(1, 11):
+    a = randint(1, 101)
+    b = randint(1, 101)
+    if a + b == add(a, b):
+        print("Test case {} passed.".format(i))
+    else:
+        print("Test case {} failed.".format(i))
