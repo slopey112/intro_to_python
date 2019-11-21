@@ -4,6 +4,7 @@ import turtle
 turtles = [turtle.Pen(), turtle.Pen()]
 for t in turtles:
     t.up()
+    t.speed(0)
     t.goto(250, -250)
     t.setheading(180)
     t.down()
